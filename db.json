@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alex",
+      "phone": "(93) 999-99-99",
+      "age": 18
+    },
+    {
+      "id": 2,
+      "title": "fugiat veniam minus",
+      "name": "Alex",
+      "phone": "(93) 999-99-99",
+      "age": 18
+    },
+    {
+      "id": 3,
+      "name": "Alex",
+      "title": "illo expedita consequat ",
+      "phone": "(93) 999-99-99",
+      "age": 18
+    },
+    {
+      "id": 4,
+      "name": "Alex",
+      "title": "et porro tempora",
+      "phone": "(93) 999-99-99",
+      "age": 18
+    },
+    {
+      "id": 5,
+      "title": "illo expedita consequatur quia in",
+      "name": "Alex",
+      "phone": "(93) 999-99-99",
+      "age": 18
+    }
+  ],
+  "todos": [
+    {
+      "title": "hello",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+      "completed": false
+    },
+    {
+      "title": "qui ullam ratione quibusdam voluptatem quia omnis",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "title": "illo expedita consequatur quia in",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "title": "quo adipisci enim quam ut ab",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 9,
+      "title": "molestiae perspiciatis ipsa",
+      "completed": false
+    },
+ 
+    {
+      "userId": 1,
+      "id": 10,
+      "title": "salom",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 12,
+      "title": "salomrtyy",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 12,
+      "title": "salommgh",
+      "completed": true
+    }
+  ]
+}
